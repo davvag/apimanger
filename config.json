@@ -1,0 +1,13 @@
+{
+    "variables":{
+        "RESOURCE_LOCATION":"D:\\wamp64\\www\\sossgrid\\sosscomponents",
+        "MEDIA_FOLDER":"D:/media",
+        "OS_URL":"http://localhost:9000/data",
+        "AUTH_URL" : "http://localhost:9000/",
+        "MAIN_STORE_DOMAIN":"localhost/sossgrid",
+        "MAPS_APIKEY":"AIzaSyCKsfJwJG7pfmMPXYXZyex8gtj_dw2mqro"
+    },
+    "alias":{
+        "localhost":["localhost"]
+    }
+}

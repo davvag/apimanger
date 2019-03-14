@@ -1,0 +1,18 @@
+{
+    "apps":{
+        "dock":{
+            "version":"latest"
+        },
+        "dock-settings":{
+            "version":"latest"
+        }
+    },
+    "webdock":{
+        "events":{
+            "onStartup":{
+                "admin" : "dock",
+                "default" : "dock"
+            }
+        }
+    }
+}
